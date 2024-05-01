@@ -1,0 +1,2 @@
+# hamo.c
+application
